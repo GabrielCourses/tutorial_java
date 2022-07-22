@@ -37,3 +37,9 @@ switch(dato){
 }
 ```
 
+Se crea el archivo <code>switch.java</code>.
+
+**Ejercicio 1:** Hacer un programa que lea un número entero y muestre si el número es múltiplo de 10.
+
+Se crea el fichero <code>multiplo.java</code> para resolver el ejercicio.
+
