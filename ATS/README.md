@@ -1,3 +1,5 @@
+![](https://raw.githubusercontent.com/GabrielCourses/tutorial_java/main/image/header_ats.png)
+
 # Programación en Java
 
 ## Calcular la suma de 3 notas
@@ -25,4 +27,16 @@ Se crea el fichero: <code>sumaDinero.java</code>. Para resolver este problema.
 **Ejercicio 6**: Hacer un programa que calcule un binomio al cuadrado.
 
 $$\left(a+b\right)^2 = a^2 + b^2 + 2ab$$
+
+### Operadores. Calcular semanas, días y horas.
+
+**Ejercicio 7**: Construir un programa que, dado un número total de horas, devuelve el número de semanas, días y horas equivalentes.
+
+Se crea el fichero <code>NumHoras</code>. Para resolver el problema.
+
+Para el **ejercicio 8**, se pide encontrar la solución a una ecuación de segundo grado, por medio de la formula general:
+
+$$x=\frac{-b \pm \sqrt{b² - 4ac}}{2a}$$
+
+El fichero que se crea es <code>chicharon.java</code>.
 
