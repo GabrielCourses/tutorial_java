@@ -1,0 +1,37 @@
+![](https://raw.githubusercontent.com/GabrielCourses/tutorial_java/main/image/header_if.png)
+
+# Condicional if - else
+
+La sentencia de control o condicional <code>if</code> tiene la siguiente syntaxis:
+
+```
+if(codicion){
+	instruccion1;
+}
+else{
+	instruccion2;
+}	
+```
+
+Se expone el ejemplo en el fichero <code>if.java</code>.
+
+## La sentencia switch
+
+La sintaxis de la sentencia <code>switch</code> es la siguiente:
+
+```
+switch(dato){
+    
+    case 1: instrucciones1;
+        break;
+        
+    case 2: instrucciones2;
+        break;
+        
+    ...
+
+    case n: instruccionesN;
+        break;
+      
+}
+```
